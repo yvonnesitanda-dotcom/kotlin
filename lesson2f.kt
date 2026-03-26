@@ -51,7 +51,7 @@ fun main() {
         x++
     }
 
-    // ⚠️ Be careful: If condition never becomes false → infinite loop
+    //  Be careful: If condition never becomes false → infinite loop
 
 
 
