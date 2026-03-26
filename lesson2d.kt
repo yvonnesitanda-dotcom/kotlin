@@ -19,4 +19,5 @@ else if (marks > 70 && marks <=100) {
 else{
     println("Wrong entry")
 }
-}
+} 
+

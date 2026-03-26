@@ -5,7 +5,7 @@ fun main() {
     val number = 0
 
     if(number > 0){
-        println("tHe number is positive")
+        println("The number is positive")
 
     }
     else if(number == 0){
