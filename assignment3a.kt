@@ -38,7 +38,7 @@ println("=========================")
 
         // Create assignment 3 and by use of for loop create an array of 7 counties and loop through them
      println("======================")
-     var counties = arrayOf( "Kajiada", "Nairobi", "Kakamega", "Mombasa", "Meru","Garissa", "Homabay")
+     var counties = arrayOf( " Kajiado ", " Nairobi ", " Kakamega ", " Mombasa ", " Meru "," Garissa ", " Homabay ")
      for (county in counties){
         println(county)
      }
